@@ -3,8 +3,8 @@
 ### I’m currently learning Front-end Web Development
 ### I’m looking to collaborate on Front-end Projects
 ### How to reach me 
-### linkedin Shrish Kerur[https://www.linkedin.com/in/shrish-kerur-552584229/]
-### Twitter @theshrish46[]
+### linkedin [Shrish Kerur](https://www.linkedin.com/in/shrish-kerur-552584229/)
+### Twitter [@theshrish46]()
  
 
 <!---
