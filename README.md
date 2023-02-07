@@ -1,7 +1,7 @@
 # Hi, I’m Shrish
 ### A passionate Front-End Developer and Open-Source enthusiast
 ### I am interested in React, JavaScript, tailwindcss, Python, and MERN stack
-### Say hai to me [here](https://vercel.com/theshrish46-gmailcom)
+### Say hai to me [here](https://shrish-kerur-theshrish46-gmailcom.vercel.app/)
 ### Linkedin [Shrish Kerur](https://www.linkedin.com/in/shrish-kerur-552584229/)
 ### Twitter [@theshrish46]()
 
