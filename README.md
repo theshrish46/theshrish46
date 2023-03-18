@@ -1,5 +1,5 @@
 # Hi, I’m Shrish
-### A passionate Front-End Developer and Open-Source enthusiast
+### Hey, I am Shrish, from Karnataka India. I am currently pursuing my Bachelor's degree in Computer Applications. I am currently learning MERN stack development.
 ### I am interested in React, JavaScript, tailwindcss, Python, and MERN stack
 ### Say hai to me [here](https://shrish-kerur-theshrish46-gmailcom.vercel.app/)
 ### Linkedin [Shrish Kerur](https://www.linkedin.com/in/shrish-kerur-552584229/)
