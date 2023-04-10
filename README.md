@@ -18,9 +18,9 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### Tools which I use
-<img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-<img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=git,github,sass,tailwind,mui" />
-<img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=vscode,figma" />
+<img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=git,sass,tailwind,nextjs" />
+<img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=vscode,figma,mui,github" />
   
   
 
@@ -28,3 +28,11 @@
   <a href="#"> <img src="https://komarev.com/ghpvc/?username=theshrish46" alt="Shrish" /></a>
   <a href="https://github.com/theshrish46?tab=followers"><img src="https://img.shields.io/github/followers/theshrish46?label=Followers&style=social" alt="GitHub Badge">    </a>
 </p>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshrish46)](https://github.com/theshrish46/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshrish46&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshrish46)](https://github.com/theshrish46/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshrish46&layout=compact)](https://github.com/theshrish46/github-readme-stats)
