@@ -1,8 +1,3 @@
-### I am interested in React, JavaScript, tailwindcss, Python, and MERN stack
-### Say hai to me [here]()
-### Linkedin [Shrish Kerur](https://www.linkedin.com/in/shrish-kerur-552584229/)
-### Twitter [@theshrish46]()
-
 
 - 🌱 I’m currently learning **React JS** and sharpening my skills by building **JavaScript** projects
 
