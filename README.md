@@ -1,11 +1,30 @@
-# Hi, I’m Shrish
-### Hey, I am Shrish, from Karnataka India. I am currently pursuing my Bachelor's degree in Computer Applications. I am currently learning MERN stack development.
 ### I am interested in React, JavaScript, tailwindcss, Python, and MERN stack
-### Say hai to me [here](https://shrish-kerur-theshrish46-gmailcom.vercel.app/)
+### Say hai to me [here]()
 ### Linkedin [Shrish Kerur](https://www.linkedin.com/in/shrish-kerur-552584229/)
 ### Twitter [@theshrish46]()
 
-<!---
-theshrish46/theshrish46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🌱 I’m currently learning **React JS** and sharpening my skills by building **JavaScript** projects
+
+- 💬 I write about **Web-Development, Front-End** you can take a look at them [here](https://theshrish.hashnode.dev)
+
+- 👨‍💻 Check out my personal portfolio : **<a href="https://shrish-kerur-theshrish46-gmailcom.vercel.app/" target="_blank">Shrish Kerur</a>**
+
+- 😁 I am also interested in MERN stack development.
+
+- 😄 Pronouns: He/Him
+
+Connect with me here  
+  
+  <a href="https://twitter.com/Amol_shelke09" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
+  
+  <a href="https://www.linkedin.com/in/shrish-kerur-552584229/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+  
+
+<p>
+  <a href="#"> <img src="https://komarev.com/ghpvc/?username=theshrish46" alt="Shrish" /></a>
+  <a href="https://github.com/theshrish46?tab=followers"><img src="https://img.shields.io/github/followers/theshrish46?label=Followers&style=social" alt="GitHub Badge">    </a>
+</p>
