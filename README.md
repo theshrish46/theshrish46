@@ -31,7 +31,7 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshrish46)](https://github.com/theshrish46/github-readme-stats) -->
 
-![Shrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshrish46&show_icons=true&theme=onedark&card_width=600px&include_all_commits=true&line_height=40)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshrish46)](https://github.com/theshrish46/github-readme-stats)
+![Shrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshrish46&show_icons=true&theme=onedark&card_width=600px&include_all_commits=true&line_height=40,)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshrish46)](https://github.com/theshrish46/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshrish46&layout=compact)](https://github.com/theshrish46/github-readme-stats) -->
 
