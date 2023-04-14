@@ -16,6 +16,14 @@
   
   <a href="https://www.linkedin.com/in/shrish-kerur-552584229/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    
+    
+  <a href="https://theshrish.hashnode.dev/">
+    <img alt="Hashnode" src="https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+    
+    
+  <a href="https://medium.com/@theshrish46">
+    <img alt="Hashnode" src="https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 ### Tools which I use
 <img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=html,css,js,react" />
