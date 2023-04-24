@@ -31,7 +31,7 @@
 <img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=vscode,figma,mui,github" />
   
   
-  <a href="https://app.daily.dev/theshrish46"><img src="https://api.daily.dev/devcards/d112100ae43b457a8f59964236603955.png?r=08p" width="200" alt="Shrish Kerur's Dev Card"/></a>
+  <a href="https://app.daily.dev/theshrish46"><img src="https://api.daily.dev/devcards/d112100ae43b457a8f59964236603955.png?r=08p" width="250" alt="Shrish Kerur's Dev Card"/></a>
   
 
 <p>
