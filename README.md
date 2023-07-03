@@ -29,10 +29,6 @@
 <img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=html,css,js,react" />
 <img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=git,sass,tailwind,nextjs" />
 <img style="padding:2rem;" align="center" src="https://skillicons.dev/icons?i=vscode,figma,mui,github" />
-  
-  
-  <a href="https://app.daily.dev/theshrish46"><img src="https://api.daily.dev/devcards/d112100ae43b457a8f59964236603955.png?r=08p" width="250" alt="Shrish Kerur's Dev Card"/></a>
-  
 
 <p>
   <a href="#"> <img src="https://komarev.com/ghpvc/?username=theshrish46" alt="Shrish" /></a>
