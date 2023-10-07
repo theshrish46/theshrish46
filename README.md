@@ -36,7 +36,7 @@
 </p>
 
 
-[An image of @theshrish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshrish)](https://holopin.io/@theshrish)
+[![An image of @theshrish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshrish)](https://holopin.io/@theshrish)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshrish46)](https://github.com/theshrish46/github-readme-stats) -->
 
 ![Shrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshrish46&show_icons=true&theme=onedark&card_width=400px&include_all_commits=true&line_height=25,)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshrish46&layout=compact)](https://github.com/theshrish46/github-readme-stats)
